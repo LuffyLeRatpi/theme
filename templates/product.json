@@ -117,7 +117,7 @@
           "type": "item",
           "settings": {
             "title": "Livraison",
-            "content": "<p><strong>Livraison suivie gratuite</strong> sur toutes les commandes. En raison de la forte demande liée à notre promotion en cours, un léger retard dans l’expédition peut survenir — les commandes seront expédiées sous 24 à 48 heures.</p><p>Le délai de livraison estimé est d’environ 7 <strong>à 10 jours ouvrés</strong>. Si votre pays apparaît lors du passage en caisse, la livraison est disponible dans votre zone.</p>"
+            "content": "<p><strong>Livraison suivie gratuite</strong> sur toutes les commandes. En raison de la forte demande liée à notre promotion en cours, un léger retard dans l’expédition peut survenir — les commandes seront expédiées sous 24 à 48 heures.</p><p>Le délai de livraison estimé est d’environ <strong>7 à 10 jours ouvrés</strong>. Si votre pays apparaît lors du passage en caisse, la livraison est disponible dans votre zone.</p>"
           }
         },
         "item_JDqNK3": {
