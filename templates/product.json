@@ -46,14 +46,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -89,7 +81,6 @@
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
@@ -110,6 +101,59 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "faq_gzbxLz": {
+      "type": "faq",
+      "blocks": {
+        "item_xJJMKy": {
+          "type": "item",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>Nouvelle révolution hiver 2025 :</strong> les premiers leggings thermiques au monde qui changent tout. Ils offrent l’effet jambes parfaites et nues, une taille affinée et une chaleur enveloppante — tout l’hiver, sans compromis.</p><p><strong>Technologie lissante anti-cellulite :</strong> une première mondiale combinant un effet seconde peau avec une technologie lissante brevetée. Atténue la cellulite, les vergetures et les imperfections pour des jambes au rendu “effet Photoshop” que vous aurez envie de montrer.</p><p><strong>Ceinture gainante intégrée :</strong> système révolutionnaire de shapewear intégré qui aplatit le ventre et redessine la taille comme des produits premium à 60 €, sans épaisseur ni inconfort.</p><p><strong>Couture verticale exclusive :</strong> design exclusif 2025 qui galbe et rehausse les fessiers au lieu de les aplatir — zéro effet “couche”, garanti.</p><p><strong>Doublure thermique en polaire :</strong> innovation brevetée qui vous garde au chaud de +5°C à -15°C tout en conservant un effet peau nue, pour porter jupes courtes et robes tout l’hiver.</p><p><strong>Garantie indestructible :</strong> tissu nouvelle génération résistant aux déchirures, testé sur plus de 200 lavages. S’ils s’abîment dans les 12 mois, nous les remplaçons gratuitement.</p><p><strong>Votre nouvel indispensable hiver 2025 :</strong> parfait sous une mini-jupe, avec des bottes ou associé à votre robe préférée — votre allié chaleur, confiance et ce moment : « comment as-tu des jambes aussi parfaites ? »</p>"
+          }
+        },
+        "item_pddn8f": {
+          "type": "item",
+          "settings": {
+            "title": "Livraison",
+            "content": "<p><strong>Livraison suivie gratuite</strong> sur toutes les commandes. En raison de la forte demande liée à notre promotion en cours, un léger retard dans l’expédition peut survenir — les commandes seront expédiées sous 24 à 48 heures.</p><p>Le délai de livraison estimé est d’environ 7 <strong>à 10 jours ouvrés</strong>. Si votre pays apparaît lors du passage en caisse, la livraison est disponible dans votre zone.</p>"
+          }
+        },
+        "item_JDqNK3": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xJJMKy",
+        "item_pddn8f",
+        "item_JDqNK3"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#ffffff",
+        "heading_gradient": "",
+        "button_background": "#ffffff",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#ffffff",
+        "accordion_text_color": ""
       }
     },
     "related-products": {
@@ -137,6 +181,7 @@
   },
   "order": [
     "main",
+    "faq_gzbxLz",
     "related-products"
   ]
 }
