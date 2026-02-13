@@ -126,12 +126,20 @@
             "title": "Entretien",
             "content": "<p><strong>1. Lavez à 30°C en machine ou à la main</strong><br/><br/>Utilisez le programme délicat si vous utilisez la machine. Pas d’inquiétude — contrairement aux collants classiques, ceux-ci ne se déchirent pas simplement parce que vous les regardez.</p><p><strong>2. Utilisez une lessive classique (sans javel ni adoucissant)</strong><br/><br/>Une lessive douce est préférable, mais sans excès. Évitez la javel et l’adoucissant — ils abîment le tissu et, de toute façon, ils sont déjà très doux.</p><p><strong>3. Faites-les sécher à plat ou suspendez-les (JAMAIS au sèche-linge)</strong><br/><br/>Le sèche-linge est leur ennemi. Laissez-les sécher naturellement. Évitez l’exposition directe au soleil, sinon la couleur pourrait ternir.</p><p><strong>4. Pliez-les soigneusement et rangez-les dans un tiroir</strong><br/><br/>Pas de plis étranges ni de déformation. Traitez-les normalement, pas besoin de tiroir spécial musée.</p><p><strong>5. Remplacez-les seulement si nécessaire</strong><br/><br/>Si la bande de maintien ne tient plus comme avant ou si le tissu est endommagé, d’accord, prenez une nouvelle paire. Mais rassurez-vous — ils durent BEAUCOUP plus longtemps que des collants classiques à 5 € qui se déchirent après deux heures.</p><p><strong>Conseil :</strong> Prenez 2 paires et alternez-les pendant la semaine afin qu’elles durent deux fois plus longtemps.</p>"
           }
+        },
+        "item_4VpVk7": {
+          "type": "item",
+          "settings": {
+            "title": "Taille",
+            "content": "<p>Nos leggings thermiques sont disponibles en plusieurs tailles adaptées à différentes morphologies afin de garantir un ajustement parfait et un effet sculptant optimal.</p><ul><li><strong>XS/S</strong> : recommandé pour un poids d’environ 40 à 53 kg<br/></li><li><strong>M/L</strong> : recommandé pour un poids d’environ 59 à 84 kg<br/></li><li><strong>L/XL</strong> : recommandé pour un poids d’environ 79 à 100 kg<br/></li><li><strong>2XL/3XL</strong> : recommandé pour un poids d’environ 97 à 136 kg<br/></li></ul><p>Grâce à leur élasticité élevée, leur tissu extensible et leur maintien équilibré, ils offrent un effet gainant confortable, une sensation seconde peau et un ajustement naturel sans compression excessive.</p><p>Si vous hésitez entre deux tailles, nous vous conseillons de choisir la taille supérieure pour un confort optimal.</p>"
+          }
         }
       },
       "block_order": [
         "item_xJJMKy",
         "item_pddn8f",
-        "item_JDqNK3"
+        "item_JDqNK3",
+        "item_4VpVk7"
       ],
       "name": "FAQ",
       "settings": {
